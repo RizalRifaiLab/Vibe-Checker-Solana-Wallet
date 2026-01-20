@@ -144,16 +144,7 @@ The app analyzes wallet activity and assigns personalities:
 - Client-side code uses `NEXT_PUBLIC_` prefix for browser access
 
 ## 🚢 Deployment
-
-### Deploy to Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import your repository
-4. Add environment variable:
-   - Key: `NEXT_PUBLIC_HELIUS_API_KEY`
-   - Value: Your Helius API key
-5. Deploy!
+demo-app : https://vibe-checker-solana-wallet.vercel.app/
 
 ### Build for Production
 
